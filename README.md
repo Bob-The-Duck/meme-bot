@@ -75,17 +75,6 @@ Możesz też użyć pliku `requirements.txt`:
 discord.py
 ```
 
----
-
-## 📸 Podgląd
-
-* `/meme` – użytkownik wysyła mema:
-  ![example-meme](https://i.imgur.com/O7R0Wq8.png)
-
-* Panel moderacji dla administracji:
-  ✅ **Akceptuj** | ❌ **Odrzuć**
-
----
 
 ## 📜 Licencja
 
